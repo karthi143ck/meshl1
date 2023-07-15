@@ -37,7 +37,7 @@
                 "stevenmaguire/oauth2-microsoft": "Needed for Microsoft XOAUTH2 authentication",
                 "symfony/polyfill-mbstring": "To support UTF-8 if the Mbstring PHP extension is not enabled (^1.2)"
             },
-            "time": "2021-06-16T14:33:43+00:00",
+            "time": "2023-06-16T14:33:43+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
